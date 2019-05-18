@@ -1,4 +1,3 @@
-#Reconcilation of File transfer
 from datetime import datetime
 
 sourceLog= 'Source.csv'
