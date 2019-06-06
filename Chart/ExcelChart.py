@@ -1,6 +1,6 @@
 import xlsxwriter
 
-workbook = xlsxwriter.Workbook('ChartDemo.xlsx')
+workbook = xlsxwriter.Workbook('WeatherChart.xlsx')
 worksheet = workbook.add_worksheet()
 
 keys = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
